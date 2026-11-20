@@ -1,0 +1,8 @@
+/個人利用MIDI/
+*.exe
+*.zip
+__pycache__/
+*.py[cod]
+source/build/
+*.spec
+*.log
